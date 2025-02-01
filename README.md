@@ -36,7 +36,7 @@ I'm passionate about building scalable applications, solving complex problems, a
 
 ## 📫 **Let's Connect**
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/bhrigutayal/)  
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/bhrigutayal/](https://www.linkedin.com/in/bhrigu-tayal-0aa469212/))  
 - 📷 [Instagram](https://www.instagram.com/bhrigu.tayal/)
 - ✉️ Reach out at **bhrigutayal7@gmail.com**  
 
