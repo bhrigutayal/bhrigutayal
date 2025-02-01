@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I'm passionate about building scalable applications, solving complex problems, and contributing to open-source projects. Currently, I'm diving deep into **Spring Boot, Kotlin, and Competitive Programming** while sharpening my problem-solving skills. 💡
 
----
+
 
 ## 🚀 **Tech Stack & Skills**
 
@@ -32,15 +32,15 @@ I'm passionate about building scalable applications, solving complex problems, a
 - **Testing:** jUnit, Mockito  
 - **Other:** Android Development, Competitive Programming (LeetCode & CodeChef)  
 
----
+
 
 ## 📫 **Let's Connect**
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/bhrigutayal/](https://www.linkedin.com/in/bhrigu-tayal-0aa469212/))  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bhrigu-tayal-0aa469212/)  
 - 📷 [Instagram](https://www.instagram.com/bhrigu.tayal/)
 - ✉️ Reach out at **bhrigutayal7@gmail.com**  
 
----
+
 
 ⚡ *"Consistency beats intensity. Progress is the goal!"*
 
